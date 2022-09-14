@@ -1,3 +1,8 @@
 # lit-app
 
-description
+#### to run locally use:
+
+```
+npm run dev
+```
+
